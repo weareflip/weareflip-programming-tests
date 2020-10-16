@@ -4,7 +4,7 @@
 
 A robotic rover has been landed by NASA on a plateau on Mars.
 
-This plateau, which is curiously rectangular, must be navigated by the rover so that its on board camera can get a complete view of the surrounding terrain to send back to Earth.
+This plateau, which is curiously rectangular, must be navigated by the rover so that its on `board camera can get a complete view of the surrounding terrain to send back to Earth.
 
 A rover's position is represented by a combination of an x and y co-ordinates and a letter representing one of the four cardinal compass points which are **(NORTH, EAST, SOUTH, WEST)**. 
 
@@ -51,3 +51,6 @@ LMLMLMLMM
 ```
 1 3 N
 ```
+
+## Demo Image of Expected Output
+![Example Solution](https://github.com/weareflip/weareflip-programming-tests/blob/master/assets/example.png.jpg?raw=true)
