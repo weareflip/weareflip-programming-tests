@@ -53,4 +53,4 @@ LMLMLMLMM
 ```
 
 ## Demo Image of Expected Output
-![Example Solution](https://github.com/weareflip/weareflip-programming-tests/blob/master/assets/example.png.jpg?raw=true)
+![Example Solution](https://github.com/weareflip/weareflip-programming-tests/blob/master/assets/example.png?raw=true)
