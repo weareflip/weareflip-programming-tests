@@ -30,7 +30,7 @@ The first line of input is the upper-right coordinates of the plateau, the lower
 
 The second line of the input is the current position of the Rover, i.e. It is currently in position (x)1,(y)2 and facing NORTH.
 
-The final line of the intput are the directions to give to the rover to tell it where to go, with an expectation that the final destination of the Rover should be reported back as (x)1, (y)3 and facing NORTH.
+Finally, the last line of the input are the directions to give to the rover to tell it where to go, with an expectation that the final destination of the Rover should be reported back as (x)1, (y)3 and facing NORTH.
 
 The position is made up of two integers and a letter separated by spaces, corresponding to the x and y co-ordinates and the rover's orientation.
 
